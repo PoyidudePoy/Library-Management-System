@@ -93,6 +93,11 @@ Open the XAMPP Control Panel and start:
 -Apache
 -MySQL
 
+inserting the students_db.sql
+- go to localhost/phpmyadmin/
+- create a new database with the same exact name students_db
+- import the database go to lms_project/students_db.sql then select it then import.
+
 ACCESSING THE SYSTEM
 User Panel
 
