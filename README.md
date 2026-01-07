@@ -99,8 +99,8 @@ inserting the students_db.sql
 - import the database go to lms_project/students_db.sql then select it then import.
 
 ACCESSING THE SYSTEM
-User Panel
 
+User/student  Panel
 URL: http://localhost/lms_project/loginNOW.php
 
 
